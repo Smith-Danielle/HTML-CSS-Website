@@ -36,15 +36,10 @@ body{
   font-family: Petrona;*/
 
   background-image: url(img/peakpx-2.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
   background-attachment: fixed;
-  height: 100%; 
-  width: 100%; 
-  background-size: cover; 
-  background-position: center;
-  -moz-background-size: cover; 
-  -webkit-background-size: cover; 
-  -o-background-size: cover;
   color:darkgrey;
 }
 
